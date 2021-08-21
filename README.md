@@ -1,4 +1,5 @@
 # FONTS : NitishTalks RECOMMENDATIONS
+![Nerd Font SVG](https://github.com/pattanaiknitish123/fonts/blob/master/images/nerd-fonts-logo.svg)
 Nitish Kumar Pattanaik
 -> All the fonts included in this repository are my recommendations. I don't tell you to download these from here. These fonts are here just for demonstration purposes. If you want to download a particular font, then I recommend you to download that font from the official website.{links are given}. Most of the fonts are from nerd fonts. I would prefer nerd version for every type of fonts.
 DOWNLOAD NERD FONTS WEBSITE: https://www.nerdfonts.com/font-downloads
@@ -71,3 +72,4 @@ I use it for writing purposes. And also I used it in my system font. And it defi
 ...
 This list will be keep on improving...
 All suggestions are welcomd...
+![Nerd font branches](https://github.com/pattanaiknitish123/fonts/blob/master/images/sankey-glyphs-combined-diagram.svg)
